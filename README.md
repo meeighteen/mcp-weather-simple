@@ -5,6 +5,8 @@
 This document outlines the three main features implemented in the Weather MCP Server: **Caching**, **Error Handling**, and **Rate Limiting**.
 
 ---
+## Preview usage with Claude Desktop locally
+<img width="797" height="851" alt="image" src="https://github.com/user-attachments/assets/eda30eda-0920-483a-a24c-430fd49000b5" />
 
 ## 1. Caching Layer
 
@@ -381,9 +383,3 @@ Tracks requests per key with time windows.
 - Check if city name is ambiguous (try state/country)
 
 ---
-
-## Support
-
-For issues, questions, or feature requests, please contact the development team or create an issue in the repository.
-
-**Last Updated:** August 15, 2026
